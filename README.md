@@ -1,36 +1,65 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
-```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+# Algoritmos_Busca_LeetCode
 
-Os temas de projeto são:  
- - Busca - Algoritmos de busca  
- - Ord_quad - Algoritmos de ordenação O(n²)  
- - Ord_nlogn - Algoritmos de ordenação O(n*log(n))  
- - Arv - Algoritmos de manipulação de Árvores  
- - Grafo - Algoritmos de manipulação de Grafos  
- 
- Ex: Busca_ConcorrenteDaGoogle
-```
-## Alunos  
-| Matrícula | Nome |  
-|-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-## Descrição do projeto
-Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
-## Guia de instalação
-Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
-### Dependências do projeto
-### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+**Número da Lista:** 41  
+**Conteúdo da Disciplina:** Algoritmos de Busca
+
+---
+
+## Alunos
+
+| Matrícula  | Aluno                    |
+| ---------- | ------------------------ |
+| 19/0030755 | João Paulo Lima da Silva |
+
+---
+
+## Sobre
+
+Este projeto tem como propósito a resolução de exercícios da plataforma LeetCode. A iniciativa busca consolidar, por meio da prática, os conceitos teóricos estudados em sala de aula, promovendo o desenvolvimento do raciocínio lógico e da capacidade de resolução de problemas complexos.
+
+---
+
+## Descrição e Screenshots
+
+## [154. Find Minimum in Rotated Sorted Array II DIFÍCIL](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)
+
+![154. Find Minimum in Rotated Sorted Array II ](src/154.Find-Minimum-in-Rotated-Sorted-Array-II.png)
+
+#### [Link do Código](leetcode/154.Find-Minimum-in-Rotated-Sorted-Array-II.py)
+
+## [4. Median of Two Sorted Arrays DIFÍCIL](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+![4. Median of Two Sorted Arrays](src/4.Median-of-Two-Sorted-Arrays.png)
+
+#### [Link do Código](leetcode/4.Median-of-Two-Sorted-Arrays.py)
+
+## [668. Kth Smallest Number in Multiplication Table DIFÍCIL](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
+
+![668. Kth Smallest Number in Multiplication Table](src/668.Kth-Smallest-Number-in-Multiplication-Table.png)
+
+#### [Link do Código](leetcode/668.Kth-Smallest-Number-in-Multiplication-Table.py)
+
+## [33. Search in Rotated Sorted Array MÉDIA](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+![33. Search in Rotated Sorted Array MÉDIA](src/33.Search-in-Rotated-Sorted-Array.png)
+
+#### [Link do Código](leetcode/33.Search-in-Rotated-Sorted-Array.py)
+
+---
+
+## Instalação
+
+- **Linguagem:** python
+- **Framework:** (caso exista)
+
+---
+
+## Uso
+
+Acesse a plataforma LeetCode, pesquise o número do exercicio, insira o código na área de edição do código e clique em "Run" para executá-lo.
+
+---
+
+## Link da Apresentação
+
+[Link]()
