@@ -50,7 +50,6 @@ Este projeto tem como propósito a resolução de exercícios da plataforma Leet
 ## Instalação
 
 - **Linguagem:** python
-- **Framework:** (caso exista)
 
 ---
 
